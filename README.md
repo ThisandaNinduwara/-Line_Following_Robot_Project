@@ -16,3 +16,26 @@ Autonomous line-following robot using Arduino Nano with PID control algorithm fo
 - Stable navigation on complex paths
 - Cost-effective solution
 
+
+## 🔧 Installation & Setup
+1. Clone the repository
+2. Open `src/line_follower.ino` in Arduino IDE
+3. Install required libraries:
+   - BeelineSensorPro
+4. Upload to Arduino Nano
+5. Calibrate sensors on first run
+
+## 🚀 Usage
+- Place robot on line track
+- Power on the system
+- Robot will automatically calibrate and begin line following
+
+## 👥 Team
+**Shadow Trackers** - Team 33  
+EE1010 Mini Project - Year 1 Semester 1
+
+## 📄 Documentation
+Full project report available in `docs/` directory
+
+## 📝 License
+Educational Project - University of Peradeniya
