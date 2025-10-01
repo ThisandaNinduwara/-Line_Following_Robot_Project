@@ -16,4 +16,3 @@ Autonomous line-following robot using Arduino Nano with PID control algorithm fo
 - Stable navigation on complex paths
 - Cost-effective solution
 
-## 📁 Project Structure
